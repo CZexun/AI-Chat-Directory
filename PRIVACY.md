@@ -12,5 +12,5 @@
 无。我们不会与任何第三方共享数据。
 
 ## 4. 联系我们  
-GitHub Issues：[https://github.com/你的用户名/仓库/issues](https://github.com/你的用户名/仓库/issues)  
+GitHub Issues：https://github.com/CZexun/AI-Chat-Directory/issues
 邮箱：1935590357@qq.com
